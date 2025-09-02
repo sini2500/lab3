@@ -22,4 +22,3 @@ Men behöver bara göra
 1. ett
 2. två
 3. tre
-
